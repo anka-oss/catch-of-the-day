@@ -7,6 +7,7 @@
     "react-scripts": "4.0.3"
   },
   "dependencies": {
+    "@types/react-router": "^5.1.20",
     "autoprefixer-stylus": "1.0.0",
     "firebase": "8.10.0",
     "prop-types": "15.7.2",
